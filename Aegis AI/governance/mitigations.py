@@ -1,0 +1,2 @@
+"""Mitigation catalog stub."""
+MITIGATIONS = {}
